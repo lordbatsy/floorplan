@@ -13,7 +13,7 @@
    height="328.95206"
    id="svg2816"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.47 r22583"
    sodipodi:docname="floorplan.svg">
   <defs
      id="defs2818">
@@ -171,11 +171,11 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
-     inkscape:window-width="1918"
-     inkscape:window-height="1179"
-     inkscape:window-x="1681"
-     inkscape:window-y="20"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata2821">
     <rdf:RDF>
@@ -561,7 +561,7 @@
     </g>
     <g
        id="g4083-9"
-       transform="matrix(0,-1.4824686,0.93848977,0,-39.532887,674.18217)">
+       transform="matrix(0,-1.4824686,0.93848977,0,-2.532888,686.68217)">
       <rect
          y="121.06266"
          x="262.69016"
@@ -813,6 +813,52 @@
            x="301.06567"
            id="tspan3693-7"
            sodipodi:role="line">keyboard</tspan></text>
+      </g>
+      <g id="g3948"
+       transform="translate(-2.4748737,39.951532)">
+      <rect
+         y="223.59315"
+         x="29.344931"
+         height="39.244427"
+         width="74.953316"
+         id="rect3170"
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         id="text3944"
+         y="245.15991"
+         x="64.700272"
+         style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:monofur;-inkscape-font-specification:monofur"
+         xml:space="preserve"><tspan
+           y="245.15991"
+           x="64.700272"
+           id="tspan3946"
+           sodipodi:role="line">bed (twin) (less sexy)</tspan></text>
+    </g>
+    <g
+       id="g3963"
+       transform="translate(-0.87499998,7.3749998)">
+      <rect
+         y="232.32706"
+         x="28"
+         height="22.5"
+         width="16.5"
+         id="rect3955"
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         transform="matrix(0,-1,1,0,0,0)"
+         id="text3957"
+         y="34.249996"
+         x="-243.70206"
+         style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:monofur;-inkscape-font-specification:monofur"
+         xml:space="preserve"><tspan
+           y="34.249996"
+           x="-243.70206"
+           id="tspan3959"
+           sodipodi:role="line">other</tspan><tspan
+           id="tspan3961"
+           y="39.249996"
+           x="-243.70206"
+           sodipodi:role="line">nightstand</tspan></text>
     </g>
   </g>
   <g
