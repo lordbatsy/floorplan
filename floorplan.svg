@@ -124,8 +124,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="0"
      inkscape:zoom="2.8284271"
-     inkscape:cx="256.37724"
-     inkscape:cy="170.79135"
+     inkscape:cx="185.38206"
+     inkscape:cy="240.88787"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -433,28 +433,8 @@
      id="layer4"
      inkscape:label="Furniture">
     <g
-       id="g4033">
-      <rect
-         y="43.280922"
-         x="27.22361"
-         height="80.96373"
-         width="96.166519"
-         id="rect4001"
-         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         id="text4029"
-         y="87.47509"
-         x="70.003571"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:monofur;-inkscape-font-specification:monofur"
-         xml:space="preserve"><tspan
-           style="font-size:6px;fill:#ff0000"
-           y="87.47509"
-           x="70.003571"
-           id="tspan4031"
-           sodipodi:role="line">bed</tspan></text>
-    </g>
-    <g
-       id="g4072">
+       id="g4072"
+       transform="translate(0,-20.85965)">
       <rect
          y="125.95206"
          x="27.125"
@@ -517,6 +497,27 @@
            x="276.83231"
            id="tspan4081"
            sodipodi:role="line">table</tspan></text>
+    </g>
+    <g
+       id="g4117"
+       transform="translate(-76.721085,-52.325902)">
+      <rect
+         y="95.7836"
+         x="103.59114"
+         height="60.280853"
+         width="79.903069"
+         id="rect4111"
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         id="text4113"
+         y="127.07307"
+         x="118.44039"
+         style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:monofur;-inkscape-font-specification:monofur"
+         xml:space="preserve"><tspan
+           y="127.07307"
+           x="118.44039"
+           id="tspan4115"
+           sodipodi:role="line">bed</tspan></text>
     </g>
   </g>
 </svg>
