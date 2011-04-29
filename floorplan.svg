@@ -165,11 +165,11 @@
      borderopacity="0.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="0"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="241.61134"
-     inkscape:cy="164.47603"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="107.61531"
+     inkscape:cy="96.715637"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="svg2816"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="718"
@@ -813,8 +813,9 @@
            x="301.06567"
            id="tspan3693-7"
            sodipodi:role="line">keyboard</tspan></text>
-      </g>
-      <g id="g3948"
+    </g>
+    <g
+       id="g3948"
        transform="translate(-2.4748737,39.951532)">
       <rect
          y="223.59315"
@@ -1067,4 +1068,39 @@
          id="tspan3693-4-4"
          sodipodi:role="line">shelf</tspan></text>
   </g>
+  <g
+     id="g4756"
+     transform="translate(-7.5000001,-9.8750001)">
+    <rect
+       y="39.922157"
+       x="329.51175"
+       height="17.589281"
+       width="13.965359"
+       id="rect4238"
+       style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       id="text4750"
+       y="47.700333"
+       x="336.49445"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:monofur;-inkscape-font-specification:monofur"
+       xml:space="preserve"><tspan
+         y="47.700333"
+         x="336.49445"
+         id="tspan4752"
+         sodipodi:role="line">file</tspan><tspan
+         id="tspan4754"
+         y="52.700333"
+         x="336.49445"
+         sodipodi:role="line">cabinet</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:monofur;-inkscape-font-specification:monofur"
+     x="164.75587"
+     y="236.85139"
+     id="text4762"><tspan
+       sodipodi:role="line"
+       id="tspan4764"
+       x="164.75587"
+       y="236.85139">D:</tspan></text>
 </svg>
