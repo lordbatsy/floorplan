@@ -13,7 +13,7 @@
    height="328.95206"
    id="svg2816"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.47 r22583"
    sodipodi:docname="floorplan.svg">
   <defs
      id="defs2818">
@@ -122,6 +122,41 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2951"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2951-2"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2951-4"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2951-25"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3849"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -130,17 +165,17 @@
      borderopacity="0.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="0"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="256.66531"
-     inkscape:cy="157.04158"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="246.42709"
+     inkscape:cy="181.12301"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
-     inkscape:window-width="1918"
-     inkscape:window-height="1179"
-     inkscape:window-x="1681"
-     inkscape:window-y="20"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata2821">
     <rdf:RDF>
@@ -547,7 +582,7 @@
     </g>
     <g
        id="g3682"
-       transform="matrix(0,-1,1,0,150.55473,327.44945)">
+       transform="matrix(0,-1,1,0,150.55473,341.44945)">
       <rect
          y="54.7714"
          x="272.05933"
@@ -716,7 +751,7 @@
            sodipodi:role="line">chair</tspan></text>
     </g>
     <g
-       transform="translate(-7.424621,-80.963733)"
+       transform="translate(-7.424621,-66.963733)"
        id="g3945-9">
       <rect
          y="110.7949"
@@ -736,6 +771,212 @@
            x="250.61761"
            id="tspan4040-7-2"
            sodipodi:role="line">chair</tspan></text>
+    </g>
+    <g
+       id="g3945-0"
+       transform="translate(85.206373,19.445432)">
+      <rect
+         y="110.7949"
+         x="236.0125"
+         height="17"
+         width="18"
+         id="rect4005-8-5"
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         transform="matrix(0.65777078,0.75321816,-0.75321816,0.65777078,0,0)"
+         id="text4038-4-5"
+         y="-105.47003"
+         x="250.61761"
+         style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:monofur;-inkscape-font-specification:monofur"
+         xml:space="preserve"><tspan
+           y="-105.47003"
+           x="250.61761"
+           id="tspan4040-7-29"
+           sodipodi:role="line">chair</tspan></text>
+    </g>
+    <g
+       id="g3945-8"
+       transform="translate(57.629208,42.779956)">
+      <rect
+         y="110.7949"
+         x="236.0125"
+         height="17"
+         width="18"
+         id="rect4005-8-3"
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         transform="matrix(0.65777078,0.75321816,-0.75321816,0.65777078,0,0)"
+         id="text4038-4-8"
+         y="-105.47003"
+         x="250.61761"
+         style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:monofur;-inkscape-font-specification:monofur"
+         xml:space="preserve"><tspan
+           y="-105.47003"
+           x="250.61761"
+           id="tspan4040-7-0"
+           sodipodi:role="line">chair</tspan></text>
+    </g>
+    <g
+       id="g3945-09"
+       transform="translate(57.629208,63.639606)">
+      <rect
+         y="110.7949"
+         x="236.0125"
+         height="17"
+         width="18"
+         id="rect4005-8-1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         transform="matrix(0.65777078,0.75321816,-0.75321816,0.65777078,0,0)"
+         id="text4038-4-9"
+         y="-105.47003"
+         x="250.61761"
+         style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:monofur;-inkscape-font-specification:monofur"
+         xml:space="preserve"><tspan
+           y="-105.47003"
+           x="250.61761"
+           id="tspan4040-7-6"
+           sodipodi:role="line">chair</tspan></text>
+    </g>
+    <g
+       id="g3945-4"
+       transform="translate(85.206373,89.449005)">
+      <rect
+         y="110.7949"
+         x="236.0125"
+         height="17"
+         width="18"
+         id="rect4005-8-4"
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         transform="matrix(0.65777078,0.75321816,-0.75321816,0.65777078,0,0)"
+         id="text4038-4-99"
+         y="-105.47003"
+         x="250.61761"
+         style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:monofur;-inkscape-font-specification:monofur"
+         xml:space="preserve"><tspan
+           y="-105.47003"
+           x="250.61761"
+           id="tspan4040-7-3"
+           sodipodi:role="line">chair</tspan></text>
+    </g>
+    <g
+       id="g3799"
+       transform="translate(150.49086,-7.0052038)">
+      <rect
+         y="243.03859"
+         x="264.54633"
+         height="25.013903"
+         width="28.991379"
+         id="rect3021"
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         id="text3795"
+         y="254.88261"
+         x="277.00909"
+         style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:monofur;-inkscape-font-specification:monofur"
+         xml:space="preserve"><tspan
+           y="254.88261"
+           x="277.00909"
+           id="tspan3797"
+           sodipodi:role="line">dryer</tspan></text>
+    </g>
+    <g
+       id="g3810"
+       transform="translate(120.5,-4.75)">
+      <rect
+         y="240.74048"
+         x="266.13733"
+         height="25.013903"
+         width="27.046835"
+         id="rect3804"
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         id="text3806"
+         y="253.29163"
+         x="278.95364"
+         style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:monofur;-inkscape-font-specification:monofur"
+         xml:space="preserve"><tspan
+           y="253.29163"
+           x="278.95364"
+           id="tspan3808"
+           sodipodi:role="line">washer</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:monofur;-inkscape-font-specification:monofur"
+       x="204.5"
+       y="285.45206"
+       id="text3815"><tspan
+         sodipodi:role="line"
+         id="tspan3817"
+         x="204.5"
+         y="285.45206">&gt;D</tspan></text>
+    <g
+       id="g3828">
+      <rect
+         y="23.452053"
+         x="186.625"
+         height="39.5"
+         width="13"
+         id="rect3822"
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         id="text3824"
+         y="-191.54167"
+         x="42.660393"
+         style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:monofur;-inkscape-font-specification:monofur"
+         xml:space="preserve"><tspan
+           y="-191.54167"
+           x="42.660393"
+           id="tspan3826"
+           sodipodi:role="line">display</tspan></text>
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3833"
+       sodipodi:cx="364.5"
+       sodipodi:cy="298.20206"
+       sodipodi:rx="12.25"
+       sodipodi:ry="12.25"
+       d="m 376.75,298.20206 a 12.25,12.25 0 1 1 -24.5,0 12.25,12.25 0 1 1 24.5,0 z"
+       transform="translate(-1.5,-8.0000001)" />
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:monofur;-inkscape-font-specification:monofur"
+       x="363"
+       y="292.70206"
+       id="text3835"><tspan
+         sodipodi:role="line"
+         id="tspan3837"
+         x="363"
+         y="292.70206">water</tspan><tspan
+         sodipodi:role="line"
+         x="363"
+         y="297.70206"
+         id="tspan3839">heater</tspan></text>
+    <g
+       id="g3695-3-6"
+       transform="translate(-172.00373,73.892657)">
+      <rect
+         y="63.787014"
+         x="285.67114"
+         height="12.020815"
+         width="30.052038"
+         id="rect3689-8-6"
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         id="text3691-0-0"
+         y="71.388412"
+         x="299.63651"
+         style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:monofur;-inkscape-font-specification:monofur"
+         xml:space="preserve"><tspan
+           y="71.388412"
+           x="299.63651"
+           id="tspan3693-4-4"
+           sodipodi:role="line">shelf</tspan></text>
     </g>
   </g>
 </svg>
