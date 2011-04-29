@@ -165,11 +165,11 @@
      borderopacity="0.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="0"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="246.42709"
-     inkscape:cy="181.12301"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="241.61134"
+     inkscape:cy="164.47603"
      inkscape:document-units="px"
-     inkscape:current-layer="svg2816"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1918"
      inkscape:window-height="1179"
@@ -666,7 +666,7 @@
     </g>
     <g
        id="g3151"
-       transform="matrix(0,1,-1,0,410.62532,-181.13423)">
+       transform="matrix(0,1,-1,0,362.54206,-181.13423)">
       <g
          transform="translate(-3.1819805,-0.35355339)"
          id="g3120">
@@ -735,7 +735,7 @@
     </g>
     <g
        id="g3163"
-       transform="matrix(0,1,-1,0,287.39218,-173.71422)">
+       transform="matrix(0,1,-1,0,358.10286,-175.48199)">
       <g
          transform="matrix(0,-1,1,0,150.55473,341.44945)"
          id="g3682">
@@ -792,7 +792,29 @@
            x="92.277435"
            y="115.75936" /></flowRegion><flowPara
          id="flowPara3110"
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:monofur;-inkscape-font-specification:monofur">linens</flowPara></flowRoot>  </g>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:monofur;-inkscape-font-specification:monofur">linens</flowPara></flowRoot>    <g
+       id="g3183"
+       transform="translate(-116.31906,36.769553)">
+      <rect
+         y="36.373161"
+         x="334.09879"
+         height="14.287873"
+         width="51.287872"
+         id="rect3689-88"
+         style="fill:none;stroke:#ff0000;stroke-width:0.71212661;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         transform="scale(1.1982668,0.83453869)"
+         id="text3691-3"
+         y="53.434967"
+         x="301.06567"
+         style="font-size:5.6970129px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:monofur;-inkscape-font-specification:monofur"
+         xml:space="preserve"><tspan
+           y="53.434967"
+           x="301.06567"
+           id="tspan3693-7"
+           sodipodi:role="line">keyboard</tspan></text>
+    </g>
+  </g>
   <g
      id="g3945-0"
      transform="translate(32.526919,89.802554)">
